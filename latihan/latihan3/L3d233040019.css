@@ -1,0 +1,40 @@
+body {
+    background-image: url(background.png); background-repeat: repeat-x;
+}
+
+h1 {
+    text-align: center;font-family: comic sans ms;font-size: 60px;color: darkblue;
+}
+
+h4 {
+    text-align: center;font-style: italic;
+}
+
+h3 {
+    text-align: center;
+}
+
+.a1 {
+    color: red;
+}
+
+.a1:hover {
+    color: black;
+}
+
+.a2:hover {
+    background-color: blue; color: white;
+}
+
+.p1 {
+    text-align: center;color: orange;
+}
+
+.p2 {
+    text-align: center;
+}
+
+.p2 a {
+    text-decoration: none;
+    color: blue;
+}
